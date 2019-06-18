@@ -1,6 +1,9 @@
 # OFFSIDE
 Proyecto Final
 
+<img src="https://github.com/NachoEspejo/OFFSIDE-PF/blob/master/logo_offside.ico" width="300px">
+
+
 ### Tecnologías y Herramientas
 APP: FIREBASE(RealTime Database), para poder usarla como una base de datos online, y ANDROID como sistema nativo.
 
