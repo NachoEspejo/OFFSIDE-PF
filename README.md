@@ -2,6 +2,9 @@
 Proyecto Final
 
 ### Tecnologías y Herramientas
+APP: FIREBASE(RealTime Database), para poder usarla como una base de datos online, y ANDROID como sistema nativo.
+
+WEB: FIREBASE(Cloud FireStore), sirve como una base de datos, JavaScript, CSS, HTML.
 
 
 ### Página de Login
